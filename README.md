@@ -1,9 +1,7 @@
 Title: Unix-WorkBench-Project- 
 
 
-Make was run at: Sun Oct 20 17:35:42 IST 2018
+Make was run at: 2018-10-18T15:35:06-05:00
 
 
-The Number of Lines in the guessinggame.sh is equal to: 23
-
-
+Lines of code contained in guessinggame.sh: 23
