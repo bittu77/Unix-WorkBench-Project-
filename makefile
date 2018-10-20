@@ -1,6 +1,6 @@
 README.md:
 	touch README.md
-	echo "Project title: Guessing Game" >> README.md
+	echo "Title: Unix-WorkBench-Project-" >> README.md
 	echo "\nThe Date And Time At which make file was successfully run was on:" >> README.md
 	date >> README.md
 	echo "\nThe number of lines of code contained in guessinggame.sh:" >> README.md
